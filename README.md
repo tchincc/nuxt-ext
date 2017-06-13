@@ -1,5 +1,6 @@
 # nuxt
 
+>This repository is settled in both git.coding.net and github.com
 > Nuxt.js project
 
 ## Build Setup
